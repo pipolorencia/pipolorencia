@@ -11,7 +11,7 @@ Estudiante de Ingenieria en sitemas y computacion en la [Universidad de Tecnolog
 - 🔭 Actualmente estoy estudiando **Ingenieria en sitemas** en UTEC
 - 🌱 Actualmente estoy aprendiendo **Go**, **python**, 
 - 👯 Estoy buscando colaborar en proyectos de ** código abierto **
-- 💬 Estoy principalmente activo dentro de las comunidades **[NodeSchool San Miguel]**(https://www.facebook.com/nodeschoolsm/), **DSC UGB**(https://dsc.community.dev/universidad-gerardo-barrios/)
+- 💬 Estoy principalmente activo dentro de las comunidades [NodeSchool San Miguel](https://www.facebook.com/nodeschoolsm/), [DSC UGB](https://dsc.community.dev/universidad-gerardo-barrios/)
 
 ### 📬 Ponte en contacto
 
@@ -24,5 +24,4 @@ Estudiante de Ingenieria en sitemas y computacion en la [Universidad de Tecnolog
 ### 📚 ¿Buscas mi CV? ¡Envíeme un correo electrónico!
 
 ![Estadísticas de github de Ezequiel Lorencia](https://github-readme-stats.vercel.app/api?username=pipolorencia&show_icons=true&hide_border=true)
-
 
