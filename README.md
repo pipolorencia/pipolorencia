@@ -11,9 +11,7 @@ Estudiante de Ingenieria en sitemas y computacion en la [Universidad de Tecnolog
 - 🔭 Actualmente estoy estudiando **Ingenieria en sitemas** en UTEC
 - 🌱 Actualmente estoy aprendiendo **Go**, **python**, 
 - 👯 Estoy buscando colaborar en proyectos de ** código abierto **
-- 💬 Estoy principalmente activo dentro de las comunidades [NodeSchool San Miguel](https://www.facebook.com/nodeschoolsm/), [DSC UGB](https://dsc.community.dev/universidad-gerardo-barrios/)
-
-### 📬 Ponte en contacto
+- 💬 Estoy principalmente activo dentro de las comunidades [NodeSchool San Miguel](https://www.facebook.com/nodeschoolsm/)
 
 - Codepen.io: [https://codepen.io/pipolorencia][Codepen]
 - GitHub: [https://github.com/pipolorencia][github]
