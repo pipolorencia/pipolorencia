@@ -6,12 +6,12 @@
 ![HTML](https://img.shields.io/badge/HTML-medio-orange)
 ![JS](https://img.shields.io/badge/JavaScrip-medio-yellow)
 
-Estudiante de Ingenieria en sitemas y computacion en la [Universidad de Tecnologica de El Savador](https://www.utec.edu.sv/?fbclid=IwAR1UGSl3KAK2MnnNZ6uKAe7Mo2Pn7hs6kEjWYAFA65eHTnYme65Wqmub6V8). Desarrollador backend , Fascinado por todo lo relacionado con la informática. Orgullosamente de [Armenia,El Salvador](https://goo.gl/maps/KQZY84hZaNxUsZqd7) 
+Egresado de Ingenieria en sitemas y computacion en la [Universidad de Tecnologica de El Savador](https://www.utec.edu.sv/?fbclid=IwAR1UGSl3KAK2MnnNZ6uKAe7Mo2Pn7hs6kEjWYAFA65eHTnYme65Wqmub6V8). Desarrollador backend , Fascinado por todo lo relacionado con la informática. Orgullosamente de [Armenia,El Salvador](https://goo.gl/maps/KQZY84hZaNxUsZqd7) 
 
 - 🔭 Actualmente estoy estudiando **Ingenieria en sitemas** en UTEC
 - 🌱 Actualmente estoy aprendiendo **Go**, **python**, 
 - 👯 Estoy buscando colaborar en proyectos de ** código abierto **
-- 💬 Estoy principalmente activo dentro de las comunidades [NodeSchool San Miguel](https://www.facebook.com/nodeschoolsm/)
+- 💬 Estoy principalmente activo dentro de las comunidades
 
 - Codepen.io: [https://codepen.io/pipolorencia][Codepen]
 - GitHub: [https://github.com/pipolorencia][github]
